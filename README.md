@@ -1,1 +1,1 @@
-- Hi, I'm @Truyka and I'm a self-taught C++ developer. Currently working on my own game engine - Orangutan Game Engine (OGE)
+I'm a self taught C++ developer, currently working on my own game engine.
